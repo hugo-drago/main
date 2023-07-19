@@ -1,0 +1,81 @@
+{
+  "pathoList": [
+    {
+      "title": "Descascaramientos",
+      "cause": "Las pinturas se descascaran fundamentalmente por el arrastre de partículas en superficies flojas o pulverulentas. Por lo general puede observarse este fenómeno en el reverso de la película desprendida, con polvillo, otras pinturas, restos de yeso, enduido o revoque.",
+      "prevention": "Antes de pintar debemos asegurarnos que la superficie este firme, sin entizamiento visible. Cuando se trate de repintado la pintura existente debe estar firmemente adherida a la superficie. En caso contrario frente a fondos pulverulentos o flojos es conveniente la aplicación de un Fijador o Acondicionador.",
+      "solution": "Eliminar primero toda la pintura mal adherida con espátulas, lijado o hidrolavado a presión en caso de ser mampostería exterior. Limpia y seca la superficie aplicar fijador al aceite convenientemente diluido con aguarrás hasta que quede mate. Con la superficie seca proceder al repintado.",
+      "image": "descascaramientos.png"
+    },
+    {
+      "title": "Sangrados",
+      "cause": "Las manchas de humedad en proceso de secado, nicotina, humo, entre otras, suelen ser solubles en agua. Al pintar con látex estas manchas son arrastradas nuevamente hacia la superficie por disolución, repitiéndose la forma original.",
+      "prevention": "Antes de pintar lavar bien la superficie con solución de agua y detergente para eliminar toda presencia de contaminantes. Dejar secar y realizar una prueba de pintado.",
+      "solution": "En presencia de las manchas solubles en agua es necesario bloquearlas. Para ello se utiliza un fondo o pintura cuyo solvente no sea agua, ejemplo: fondo blanco sintético para madera, pinturas antihumedad en interiores o al caucho acrílico en exteriores. La mancha quedara bloqueada y puede aplicarse látex.",
+      "image": "sangrados.png"
+    },
+    {
+      "title": "Eflorescencias - Salitre - Alcalinidad",
+      "cause": "Las eflorescencias alcalinas o salitrosas se originan generalmente a consecuencia de evaporación o secado de humedades, que arrastran partículas de sales solubles, formando en la superficie el clásico polvillo blanco.",
+      "prevention": "Por tratarse de un fenómeno producido por el pasaje de agua, es conveniente identificar el origen, ya sea humedad de cimientos o posible secado de filtraciones u otros.",
+      "solution": "En primera instancia debemos evitar el pasaje de humedad, ya sean fisuras exteriores o fallas en las capas aislantes de la mampostería, con la aplicación de productos adecuados para cada caso, impermeabilizantes para frentes o techados, o productos para recomponer capas aislantes de mamposterías. Si la superficie con polvillo blanco se encuentra seca es conveniente cepillado previo al pintado. En caso de superficie de ladrillo visto preferentemente cepillar en seco hasta eliminar la eflorescencia. Y si la misma no sale proceder a lavar con solución de ácido muriático al 10 o 20 % en agua, enjuagar con poca agua para evitar una repetición del fenómeno.",
+      "image": "eflorescencias.png"
+    },
+    {
+      "title": "Pelamiento causa 1",
+      "cause": "Secado muy rápido de la pintura por excesivo calor ambiental durante el pintado o en la superficie.",
+      "prevention": "Respetar las indicaciones del fabricante sobre las temperaturas adecuadas para el pintado.",
+      "solution": "Agregar un pequeño porcentaje de solvente a la pintura, agua en caso de látex o aguarrás en caso de esmalte sintético, para estirar un poco el tiempo de secado y favorecer la correcta formación de la película.",
+      "image": "pelamientos.png"
+    },
+    {
+      "title": "Pelamiento causa 2",
+      "cause": "Falta de adherencia en el sustrato por brillo excesivo en la pintura existente o en el revestimiento base",
+      "prevention": "Lijado previo de la película existente hasta quedar con brillo mate.",
+      "solution": "Lijado previo de la película existente hasta quedar con brillo mate. En caso que la superficie o el elemento a pintar sea de difícil adherencia, ejemplo: plásticos, zinc u otros, puede necesitarse la aplicación previa de una pintura o fondo adherente adecuado para tal superficie.",
+      "image": "pelamientos.png"
+    },
+    {
+      "title": "Hongos",
+      "cause": "En general los hongos se desarrollan en superficies interiores y exteriores por excesiva presencia de humedad. Ejemplo: ambientes poco ventilados, muros fríos y húmedos, calefacción sin ventilación al exterior. Los hongos pueden transmitirse de un ambiente a otro por simple contacto con elementos tales como plumeros, escobas, aspiradoras o trapos de limpieza.",
+      "prevention": "Mantener ambientes ventilados, utilizar calefacción con salida al exterior, mantener los muros exteriores impermeabilizados. También utilizar las pinturas interiores adecuadas, tanto para cielorrasos como para paredes, del tipo antihongos con aditivos especiales para ese fin, estas inhiben por un tiempo prudencial la formación y proliferación de hongos.",
+      "solution": "Cuando hay presencia de hongos en interiores, limpiar las superficies con solución de hipoclorito (lavandina) en agua, o con líquidos limpiadores específicos para ese fin. Una vez secas proceder al repintado. En caso de ser mampostería exterior realizar la limpieza descripta anteriormente, según el estado de la superficie puede requerirse la utilización de hidro lavadora. Posteriormente repintar o impermeabilizar.",
+      "image": "hongos.png"
+    },
+    {
+      "title": "Cuarteado de pelicula",
+      "cause": "La aplicación de pinturas sobre fondos blandos o pulverulentos puede ocasionar cuarteos en la nueva película al poco tiempo. En caso que la primera mano de la pintura no esté bien seca, la segunda puede sufrir un “arrugue” al secar antes que la primera, también puede suceder cuando hay restos de removedor, cola de pegar o ceras no eliminados convenientemente. Eventualmente, y ante la presencia de muchas capas de pintura anteriores también puede producirse esta patología.",
+      "prevention": "Limpiar bien siempre las superficies a pintar, eliminar partes flojas y/o excesivas capas anteriores si las hubiera. Respetar los tiempos de secado y repintado especificados por el fabricante, así como también el uso y las proporciones de los solventes indicados.",
+      "solution": "Eliminar bien toda la capa de pintura cuarteada hasta obtener una base firme. Repintar siguiendo las indicaciones de “Como evitarlo”.",
+      "image": "cuarteado.png"
+    },
+    {
+      "title": "Falta de cubritivo",
+      "cause": "Puede tratarse de excesiva dilución de las pinturas, así como también deficiente mezclado de las mismas. Otra causa probable es la existencia de una superficie muy absorbente, puede provocar la sensación de que las pinturas no cubran o que tengan una cobertura despareja. Un caso particular es la superficie con enlucido o terminación de yeso. También hay casos que tienen que ver con la presencia de manchas (ver SANGRADO)",
+      "prevention": "Homogeneizar convenientemente el contenido de la lata de pintura con espátula plana, incorporando desde abajo hacia arriba por unos minutos. Aplicar previamente al pintado sellador (para unificar la absorción de la superficie) o fijador (para fijar partículas flojas en la base). En caso de manchas bloquearlas previamente y en presencia de yeso mal curado o blando aplicar también fijador al aceite para bloquear el efecto que puede producir la pintura al agua en reacción con ese yeso.",
+      "solution": "En caso de tener un color muy intenso en la base o pintar con pinturas con colores intensos o profundos, se requiere la aplicación previa de una o dos manos con un color neutro del tipo sepia, o con blanco.",
+      "image": ""
+    },
+    {
+      "title": "Decoloraciones",
+      "cause": "Algunas pinturas coloreadas pueden sufrir cambios de tono por exposición a los rayos UV. El uso de los entonadores Amarillo, Bermellón y Naranja se recomienda solo para pinturas interiores. También pueden ser afectadas en ambientes muy contaminados. La alcalinidad propia de una superficie (mampostería, hormigón y otros materiales de construcción) puede producir decoloración de las pinturas por ataque químico sobre los pigmentos de menor resistencia que componen el color, especialmente aquellos preparados con sistemas tintometricos. Otro caso en exteriores puede deberse por la presencia de fisuras o micro fisuras en la mampostería.",
+      "prevention": "Seleccionado mezcla de colores elaborada con pigmentos mas resistentes a la alcalinidad y a los rayos UV. Neutralizar previamente la alcalinidad en superficie con solución de ácido muriático diluido en agua en proporción adecuada. En caso de revoques nuevos puede realizarse esa neutralización dejando secar 3 meses en exteriores o 6 meses en interiores aproximadamente. Igualmente, es conveniente previo al pintado realizar prueba sectorial con el acido para verificar si hay presencia de alcalinidad. En caso de haber fisuras en exteriores, tratar las mismas con selladores adecuados para tal fin, e impermeabilizar a efectos de evitar que el ingreso de agua provoque eflorescencias salinas.",
+      "solution": "En caso de decoloración de la pintura resulta conveniente solucionar el origen de la misma, resolverlo en cada caso según “Como evitarlo” y repintar.",
+      "image": "decoloracion.png"
+    },
+    {
+      "title": "Ampollados en superficies impermeabilizadas",
+      "cause": "Las causas más usuales son: La presencia de humedad retenida por debajo de la superficie del techado o la mampostería exterior, producida por filtraciones anteriores, que al evaporar naturalmente por acción del calor generan presión de vapor y conforman las ampollas. Superficie con base floja, deteriorada, pulverulenta o con restos de otro material, como el caso de los asfalticos en terrazas y/o presencia de alcalinidad propia del material de base. En estos casos pueden verse esos restos pegados en las ampollas al cortarlas.",
+      "prevention": "",
+      "solution": "Cortar convenientemente las ampollas producidas, dejar secar si hay humedad remanente y/o limpiar la base. Repintar parcialmente los sectores ampollados con los esquemas de impermeabilización adecuados.",
+      "image": "ampolladosCaso1.png"
+    },
+    {
+      "title": "Ampollados en piletas",
+      "cause": "Las ampollas pueden aparecer por diversos motivos, a saber: No respetar el tiempo de secado final o curado de la pintura, de 7 días, antes de llenar la pileta. Haber pintado con la superficie todavía caliente cuando le dio el sol, o con altas temperaturas. Por presencia de alcalinidad proveniente del agua de red o pozo sobre la superficie, que no se neutralizó convenientemente. Falta de curado final de la mampostería en caso de piletas nuevas.",
+      "prevention": "",
+      "solution": "Respetar siempre las indicaciones del fabricante. Recomiendo realizar sin falta los lavados necesarios de la superficie con ácido muriático diluido convenientemente probando hasta que el mismo no reaccione mas para asegurar la eliminación de restos alcalinos.",
+      "image": "ampolladosCaso2.png"
+    }
+  ]
+}
